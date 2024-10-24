@@ -524,7 +524,7 @@
     * [\&secure](source-settings/secure.md)
     * [\&tcp](general-settings/and-tcp.md)
     * [\&tz](newly-added-parameters/and-tz.md)
-  * [New Parameters in Version 24](advanced-settings/new-parameters.md)
+  * [Parameters added in Version 24](advanced-settings/new-parameters.md)
   * [Upcoming Parameters](advanced-settings/upcoming-parameters.md)
   * [Other Parameters](other-parameters.md)
   * [Complete List of URL Parameters for VDO.NInja v26](advanced-settings/complete-list-of-url-parameters-for-vdo.ninja-v26.md)
