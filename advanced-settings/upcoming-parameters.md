@@ -7,12 +7,14 @@ description: >-
 # Upcoming Parameters
 
 {% hint style="info" %}
-Version 24 was released on December 19th. All new parameters are [here](new-parameters.md).
+Version 24 was released on December 19th 2023. All new parameters are [here](new-parameters.md).
 {% endhint %}
 
-You can use/test these new parameters for Version 25 on [vdo.ninja/alpha](https://vdo.ninja/alpha/) and/or [vdo.ninja/beta](https://vdo.ninja/beta/):
+{% hint style="info" %}
+Version 26 was released on October 13th 2024.&#x20;
+{% endhint %}
 
-<table><thead><tr><th width="316">Parameter</th><th>Explanation</th></tr></thead><tbody><tr><td><a data-mention href="../updates/updates-vdo.ninja.md">updates-vdo.ninja.md</a></td><td>More new parameters</td></tr></tbody></table>
+\
+You can test features in development or just added at [vdo.ninja/alpha](https://vdo.ninja/alpha/), which is updated every few days. Please refer to the [updates page](https://updates.vdo.ninja) for details on newly added features.
 
-\***ALPHA-ONLY** - Only available at [https://vdo.ninja/alpha/](https://vdo.ninja/alpha/)\
-\*\*on [vdo.ninja/beta](https://vdo.ninja/beta/) and [vdo.ninja/alpha](https://vdo.ninja/alpha/)
+<table><thead><tr><th width="484">Parameter</th><th>Explanation</th></tr></thead><tbody><tr><td><a data-mention href="../updates/updates-vdo.ninja.md">updates-vdo.ninja.md</a></td><td>More new parameters</td></tr></tbody></table>
