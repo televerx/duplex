@@ -527,6 +527,7 @@
   * [New Parameters in Version 24](advanced-settings/new-parameters.md)
   * [Upcoming Parameters](advanced-settings/upcoming-parameters.md)
   * [Other Parameters](other-parameters.md)
+  * [Complete List of URL Parameters for VDO.NInja v26](advanced-settings/complete-list-of-url-parameters-for-vdo.ninja-v26.md)
 * [Releases](release-notes/older-releases.md)
   * [v24](releases/v24.md)
   * [v23 🌱](releases/v23.md)
