@@ -525,7 +525,7 @@
     * [\&tcp](general-settings/and-tcp.md)
     * [\&tz](newly-added-parameters/and-tz.md)
   * [Parameters added in Version 24](advanced-settings/new-parameters.md)
-  * [Complete List of Parameters in v26](advanced-settings/complete-list-of-parameters-in-v26.md)
+  * [Complete List of Parameters in v26](advanced-settings/complete-list-of-url-parameters-for-vdo.ninja-v26.md)
   * [Upcoming Parameters](advanced-settings/upcoming-parameters.md)
   * [Other Parameters](other-parameters.md)
 * [Releases](release-notes/older-releases.md)
