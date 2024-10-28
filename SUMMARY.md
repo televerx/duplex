@@ -625,7 +625,7 @@
   * [Surround sound error when screen sharing with USB headset](common-errors-and-known-issues/surround-sound-error-when-screen-sharing-with-usb-headset.md)
   * [Relay candidate being selected](common-errors-and-known-issues/relay-candidate-being-selected.md)
   * [Camera works in Safari; not Chrome](common-errors-and-known-issues/camera-works-in-safari-not-chrome.md)
-  * [Robotic audio](common-errors-and-known-issues/robotic-audio.md)
+  * [Robotic Audio Distortion](common-errors-and-known-issues/robotic-audio-distortion.md)
   * [Can't load camera from non-SSL host](common-errors-and-known-issues/cant-load-camera-from-non-ssl-host.md)
   * [Camera on macOS doesn't show?](common-errors-and-known-issues/camera-on-macos-doesnt-show.md)
   * [Can't screen share Adobe Lightroom](common-errors-and-known-issues/cant-screen-share-adobe-lightroom.md)

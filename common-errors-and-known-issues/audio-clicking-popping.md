@@ -103,4 +103,4 @@ Try adding these URL parameters to viewer and sender links:
 
 #### Further Resources
 
-For issues with audio distortion or robotic voices, [you can see this article.](robotic-audio.md)\
+For issues with audio distortion or robotic voices, [you can see this article.](robotic-audio-distortion.md)\
