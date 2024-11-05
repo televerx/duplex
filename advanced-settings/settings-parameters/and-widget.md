@@ -25,6 +25,18 @@ The director of a room also has the option to enable/disable the widget function
 You can encode the URL here:\
 [https://www.urlencoder.org/](https://www.urlencoder.org/)
 
+### Changing the width of the widget sidebar
+
+**\&widgetwidth** can be used to set the width of the widget sidebar, as a percentile value.
+
+* eg: `&widgetwidth=30`
+* the max width is 50%, with the default already at 25%
+
+### Considerations
+
+* not all domains allow themselves to be embedded into VDO.Ninja
+* you cannot use \&css or \&js in conjunction with \&widget, for security purposes
+
 <figure><img src="../../.gitbook/assets/image (7) (1) (1) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 If the director uses `&widget`, it will auto sync that with all guests as they connect. I'll try to find ways to make it easier to resize/minimize in the future.
