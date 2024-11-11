@@ -23,10 +23,10 @@ If you can't hear a sound, click any button in the room. Then the sounds will be
 
 Enable audio notifications for specified events.
 
-* Values: Comma-separated list of: `join`, `leave`
-* Example: `?beep=join,leave` enables both join and leave sounds
+* Values: Comma-separated list of: `join`, `leave`, `test`
+* Example: `?beep=join,leave` enables just the join and leave sounds
 * Example: `?notify=join` enables only join sounds
-* Note: Using the parameter without values (e.g., `?beep`) will not enable any sounds. You must specify which types.
+* Note: Using the parameter without values (e.g., `?beep`) will enable all sound types.
 
 ### Custom Sound Settings
 
@@ -69,7 +69,8 @@ Sets volume for all notification sounds.
 
 * Value: Number between 0-100 for normal volume, >100 for amplified volume
 * Example: `?beepvolume=50` for 50% volume
-* Example: `?beepvolume=150` for 150% volume using Web Audio API amplification
+* Example: `?beepvolume=500` for 500% volume using Web Audio API amplification
+  * volume values are linear, yet the human ear hears loudness logarithmically, so 500 isn't that much louder.
 * Default: 100 (100% volume)
 
 #### Important Volume Limitations
